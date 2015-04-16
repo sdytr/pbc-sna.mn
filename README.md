@@ -1,5 +1,7 @@
 # Prairie Bush Clover SNA Data
 
+<img src="resources/images/PrairieBushClover-8smooth-4-tiny-buffer.png" />
+
 ## Data API
 
 TBD

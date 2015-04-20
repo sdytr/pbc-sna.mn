@@ -17,6 +17,7 @@ TBD
 * [Prairie Bush Clover SNA](http://www.dnr.state.mn.us/snas/detail.html?id=sna01036)
   * [Project on iNaturalist](https://www.inaturalist.org/projects/prairie-bush-clover-sna-data)
   * [Twitter account](https://twitter.com/PBCSNA)
+  * [Flickr group for the SNA](https://www.flickr.com/groups/pbc-sna/pool/)
   * [Bird song set on Xeno-Canto.org](http://www.xeno-canto.org/set/1054)
 * [Coteau Moraines Subsection](http://www.dnr.state.mn.us/ecs/251Bb/index.html)
 * [Prairie Bush Clover Fact Sheet](http://www.fws.gov/midwest/endangered/plants/prairieb.html)
